@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>ARIRANG</title>
+<link>http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/arirang_zpsp6gddwjh.png</thumbnail>
+</item>
+
+<item>
+<title>CHANNEL A</title>
+<link>http://edge1.everyon.tv/etv1/pld251/chunklist_w1294565615.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/channela_zpsfcjpiwrg.png</thumbnail>
+</item>
+
+<item>
+<title>CHOSUN TV</title>
+<link>rtmp://live.chosun.gscdn.com:1935/live/_definst_mp4:tvchosun1.stream</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/chosuntv_zps6pz61wej.png</thumbnail>
+</item>
+
+<item>
+<title>DRAMA WORLD</title>
+<link>http://123.108.164.71/etv2sb/phd505/lihattv.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dramaworld_zpshmmsuh9s.png</thumbnail>
+</item>
+
+<item>
+<title>EBS 1</title>
+<link>rtmp://ebsonair.ebs.co.kr/groundwavetablet500k/tablet500k</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ebs_zpskbmxtvzy.png</thumbnail>
+</item>
+
+<item>
+<title>EBS U</title>
+<link>rtmp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ebs_zpskbmxtvzy.png</thumbnail>
+</item>
+
+<item>
+<title>EBS E</title>
+<link>rtmp://ebsonair.ebs.co.kr/plus3tablet500k/tablet500k</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ebs_zpskbmxtvzy.png</thumbnail>
+</item>
+
+<item>
+<title>JEI ENGLISH</title>
+<link>rtmp://edge2.everyon.tv/etv2sb/phd15</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jei_zps2qps4jqb.png</thumbnail>
+</item>
+
+<item>
+<title>JTBC</title>
+<link>rtmp://edge2.everyon.tv/etv2/pld343</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jtbc_zpsruer38zt.png</thumbnail>
+</item>
+
+<item>
+<title>JTBC FOX SPORTS</title>
+<link>rtmp://edge1.everyon.tv/etv1/phd197</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jtbc_zpsruer38zt.png</thumbnail>
+</item>
+
+<item>
+<title>JTBC GOLF</title>
+<link>rtmp://edge1.everyon.tv/etv1sb/phd58</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jtbc_zpsruer38zt.png</thumbnail>
+</item>
+
+<item>
+<title>KBS 1</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://www.iptvlinks.tk/player/jwplayer/JWPlayer.swf pageUrl=http://www.iptvlinks.tk/kb/embed?id=rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream</link>
+<regex>
+<name>getrtmp</name>
+<expres>streamer = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/kb/embed?id=rtmp://live.kbskme.gscdn.com/1tv/_definst_/1tv_5.stream</page>
+<referer>http://www.zoptv.com/live/kbs1</referer>
+</regex>
+<regex>
+<name>getplaypath</name>
+<expres>file = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/kb/embed?id=rtmp://live.kbskme.gscdn.com/1tv/_definst_/1tv_5.stream</page>
+<referer>http://www.zoptv.com/live/kbs1</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>KBS 2</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://www.iptvlinks.tk/player/jwplayer/JWPlayer.swf pageUrl=http://www.iptvlinks.tk/kb/embed?id=rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream</link>
+<regex>
+<name>getrtmp</name>
+<expres>streamer = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/kb/embed?id=rtmp://live.kbskme.gscdn.com/2tv/_definst_/2tv_5.stream</page>
+<referer>http://www.zoptv.com/live/kbs2</referer>
+</regex>
+<regex>
+<name>getplaypath</name>
+<expres>file = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/kb/embed?id=rtmp://live.kbskme.gscdn.com/2tv/_definst_/2tv_5.stream</page>
+<referer>http://www.zoptv.com/live/kbs2</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>MBC</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://www.iptvlinks.tk/player/jwplayer/JWPlayer.swf pageUrl=http://www.iptvlinks.tk/kb/embed?id=rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream</link>
+<regex>
+<name>getrtmp</name>
+<expres>streamer = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/kb/embed?id=rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream</page>
+<referer>http://www.zoptv.com/live/mbc-tv</referer>
+</regex>
+<regex>
+<name>getplaypath</name>
+<expres>file = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/kb/embed?id=rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream</page>
+<referer>http://www.zoptv.com/live/mbc-tv</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc_zps7dt8ovsm.png</thumbnail>
+</item>
+
+<item>
+<title>MNET</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://www.iptvlinks.tk/player/jwplayer/JWPlayer.swf pageUrl=http://www.iptvlinks.tk/kb/embed?id=rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream</link>
+<regex>
+<name>getrtmp</name>
+<expres>streamer = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/kb/embed?id=rtmp://ios.live.mnet.gscdn.com/liveIPhoneMNETsD/_definst_/liveIPhoneMNET2s_896k.stream</page>
+<referer>http://www.zoptv.com/live/mnet</referer>
+</regex>
+<regex>
+<name>getplaypath</name>
+<expres>file = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/kb/embed?id=rtmp://ios.live.mnet.gscdn.com/liveIPhoneMNETsD/_definst_/liveIPhoneMNET2s_896k.stream</page>
+<referer>http://www.zoptv.com/live/mnet</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mnet_zpsgztxecs5.png</thumbnail>
+</item>
+
+<item>
+<title>MBN</title>
+<link>http://edge1.everyon.tv/etv1/pld17/chunklist_w708321745.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbn_zps9hy4cbep.png</thumbnail>
+</item>
+
+<item>
+<title>SBS</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://www.iptvlinks.tk/player/jwplayer/JWPlayer.swf pageUrl=http://www.iptvlinks.tk/kb/embed?id=rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream</link>
+<regex>
+<name>getrtmp</name>
+<expres>streamer = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/sb/embed?id=SBS</page>
+<referer>http://www.zoptv.com/live/sbs-tv</referer>
+</regex>
+<regex>
+<name>getplaypath</name>
+<expres>file = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/sb/embed?id=SBS</page>
+<referer>http://www.zoptv.com/live/sbs-tv</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
+</item>
+
+<item>
+<title>SBS TJB</title>
+<link>rtmp://123.214.216.18/live/tv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
+</item>
+
+<item>
+<title>SBS KNN</title>
+<link>rtmp://211.220.195.200:1935/live/mp4:KnnTv.stream</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
+</item>
+
+<item>
+<title>TBS</title>
+<link>mms://115.84.165.160/catvlive</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tbs_zpsprldwayi.png</thumbnail>
+</item>
