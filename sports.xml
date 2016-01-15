@@ -1,96 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>ASTRO SUPERSPORT 1</title>
-<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-enctext</name>
-<expres>murl = "(.*?)"</expres>
-<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
-<referer>http://p2pcast.tv/</referer>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>http://p2pcast.tv/getTok.php</page>
-<referer>http://p2pcast.tv/</referer>
-<x-req>XMLHttpRequest</x-req>
-</regex>
-<regex>
-<name>id</name>
-<expres>id='(.*?)'</expres>
-<page>http://antenasport.com/astro1.html</page>
-<referer>http://antenasport.com/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO SUPERSPORT 2</title>
-<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-enctext</name>
-<expres>murl = "(.*?)"</expres>
-<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
-<referer>http://p2pcast.tv/</referer>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>http://p2pcast.tv/getTok.php</page>
-<referer>http://p2pcast.tv/</referer>
-<x-req>XMLHttpRequest</x-req>
-</regex>
-<regex>
-<name>id</name>
-<expres>id='(.*?)'</expres>
-<page>http://antenasport.com/astro2.html</page>
-<referer>http://antenasport.com/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO SUPERSPORT 3</title>
-<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-enctext</name>
-<expres>murl = "(.*?)"</expres>
-<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
-<referer>http://p2pcast.tv/</referer>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>http://p2pcast.tv/getTok.php</page>
-<referer>http://p2pcast.tv/</referer>
-<x-req>XMLHttpRequest</x-req>
-</regex>
-<regex>
-<name>id</name>
-<expres>id='(.*?)'</expres>
-<page>http://antenasport.com/astro3.html</page>
-<referer>http://antenasport.com/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
-</item>
-
-<item>
 <title>BEIN SPORTS ASIA 1</title>
 <link>http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/beinsport_zpspzc4t6lb.png</thumbnail>
@@ -357,18 +267,6 @@
 <title>VERSUS</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/versus_zpsnjka5dzi.png</thumbnail>
-</item>
-
-<item>
-<title>WWE NETWORK</title>
-<link>http$doregex[canal]</link>
-<regex>
-<name>canal</name>
-<expres>src="http(.*?)"</expres>
-<page>http://www.streamlive.to/view/72809/</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16</agent>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/wwe_zpsjx8qzkcg.png</thumbnail>
 </item>
 
 <item>
