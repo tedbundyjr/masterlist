@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>ASTRO SUPERSPORT 1</title>
+<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>murl = "(.*?)"</expres>
+<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
+<referer>http://p2pcast.tv/</referer>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>http://p2pcast.tv/getTok.php</page>
+<referer>http://p2pcast.tv/</referer>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>id</name>
+<expres>id='(.*?)'</expres>
+<page>http://antenasport.com/astro1.html</page>
+<referer>http://antenasport.com/</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 2</title>
+<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>murl = "(.*?)"</expres>
+<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
+<referer>http://p2pcast.tv/</referer>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>http://p2pcast.tv/getTok.php</page>
+<referer>http://p2pcast.tv/</referer>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>id</name>
+<expres>id='(.*?)'</expres>
+<page>http://antenasport.com/astro2.html</page>
+<referer>http://antenasport.com/</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 3</title>
+<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-enctext</name>
+<expres>murl = "(.*?)"</expres>
+<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
+<referer>http://p2pcast.tv/</referer>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>http://p2pcast.tv/getTok.php</page>
+<referer>http://p2pcast.tv/</referer>
+<x-req>XMLHttpRequest</x-req>
+</regex>
+<regex>
+<name>id</name>
+<expres>id='(.*?)'</expres>
+<page>http://antenasport.com/astro3.html</page>
+<referer>http://antenasport.com/</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS ASIA 1</title>
+<link>http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/beinsport_zpspzc4t6lb.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS ASIA 2</title>
+<link>http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/beinsport_zpspzc4t6lb.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS ASIA 3</title>
+<link>http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/beinsport_zpspzc4t6lb.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 1</title>
+<link>$doregex[getEncLink]</link>
+<regex>
+<name>getDecLink</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv26&amp;autoplay=true&amp;strech=exactfit</page>
+<referer>http://www.ibrodtv.net/embed.php?chan=tv26&width=640&height=480</referer>
+</regex>
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/btsport_zps6ivouikh.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2</title>
+<link>$doregex[getEncLink]</link>
+<regex>
+<name>getDecLink</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv27&amp;autoplay=true&amp;strech=exactfit</page>
+<referer>http://www.ibrodtv.net/embed.php?chan=tv27&width=640&height=480</referer>
+</regex>
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/btsport_zps6ivouikh.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 1</title>
+<link>http://122.155.203.25/live/sport1/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 2</title>
+<link>http://122.155.203.25/live/sport2/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 3</title>
+<link>http://122.155.203.25/live/sport3/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 4</title>
+<link>http://122.155.203.25/live/sport4/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+</item>
+
+<item>
+<title>CTH STADIUM 5</title>
+<link>http://122.155.203.25/live/sport5/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/cth_zpst7aatqjy.png</thumbnail>
+</item>
+
+<item>
+<title>DUBAI SPORT (ARABIC)</title>
+<link>http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1000000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaisports_zpspdc0yfvh.png</thumbnail>
+</item>
+
+<item>
+<title>DUBAI SPORT 3 (ARABIC)</title>
+<link>http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaisports_zpspdc0yfvh.png</thumbnail>
+</item>
+
+<item>
+<title>DUBAI RACING (ARABIC)</title>
+<link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubairacing_zpsjx8qjsau.png</thumbnail>
+</item>
+
+<item>
+<title>EURO SPORT</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/eurosport_zpsoquxl9yz.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN 1 (SPANISH)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/espn_zpstansmdl1.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN 2 (SPANISH)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/espn_zpstansmdl1.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN 3 (SPANISH)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/espn_zpstansmdl1.png</thumbnail>
+</item>
+
+<item>
+<title>FIGHT SPORT</title>
+<link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/fightsports_zpsyti4pl1i.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 1</title>
+<link>http://213.136.90.30:8000/live/christop/christop/9373.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/foxsports_zps6ge7yrfo.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2</title>
+<link>http://213.136.90.30:8000/live/christop/christop/9374.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/foxsports_zps6ge7yrfo.png</thumbnail>
+</item>
+
+<item>
+<title>NBCSN</title>
+<link>http://tinyurl.com/jsg6b4h</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/nbcsn_zpszsphlxqi.png</thumbnail>
+</item>
+
+<item>
+<title>NBC GOLF</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/nbcgolf_zpscfntlrtf.png</thumbnail>
+</item>
+
+<item>
+<title>MIO SPORTS</title>
+<link>https://goo.gl/5dD2hE</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/miostadium_zpsjmx2ajnv.png</thumbnail>
+</item>
+
+<item>
+<title>REDBULL TV</title>
+<link>http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/redbulltv_zps5fvwhmq9.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTTIME TV</title>
+<link>http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/sporttimetv_zpstlwvqtm6.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1</title>
+<link>$doregex[getEncLink]</link>
+<regex>
+<name>getDecLink</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv21&amp;autoplay=true&amp;strech=exactfit</page>
+<referer>http://www.ibrodtv.net/embed.php?chan=tv21&width=640&height=480</referer>
+</regex>
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2</title>
+<link>$doregex[getEncLink]</link>
+<regex>
+<name>getDecLink</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv22&amp;autoplay=true&amp;strech=exactfit</page>
+<referer>http://www.ibrodtv.net/embed.php?chan=tv22&width=640&height=480</referer>
+</regex>
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3</title>
+<link>$doregex[getEncLink]</link>
+<regex>
+<name>getDecLink</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv23&amp;autoplay=true&amp;strech=exactfit</page>
+<referer>http://www.ibrodtv.net/embed.php?chan=tv23&width=640&height=480</referer>
+</regex>
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4</title>
+<link>$doregex[getEncLink]</link>
+<regex>
+<name>getDecLink</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv24&amp;autoplay=true&amp;strech=exactfit</page>
+<referer>http://www.ibrodtv.net/embed.php?chan=tv24&width=640&height=480</referer>
+</regex>
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 5</title>
+<link>$doregex[getEncLink]</link>
+<regex>
+<name>getDecLink</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv25&amp;autoplay=true&amp;strech=exactfit</page>
+<referer>http://www.ibrodtv.net/embed.php?chan=tv25&width=640&height=480</referer>
+</regex>
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 2</title>
+<link>rtmp://31.220.2.149:80/live playpath=tsnx2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=tsnx2&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/tsn_zpsdve6k7lj.png</thumbnail>
+</item>
+
+<item>
+<title>VERSUS</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/versus_zpsnjka5dzi.png</thumbnail>
+</item>
+
+<item>
+<title>WWE NETWORK</title>
+<link>http$doregex[canal]</link>
+<regex>
+<name>canal</name>
+<expres>src="http(.*?)"</expres>
+<page>http://www.streamlive.to/view/72809/</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/wwe_zpsjx8qzkcg.png</thumbnail>
+</item>
+
+<item>
+<title>REAL MADRID TV</title>
+<link>http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/realmadridtv_zpssapd6uj6.png</thumbnail>
+</item>
