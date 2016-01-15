@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>ITV</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=11</page>
+<referer>http://www.zoptv.com/live/itv</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/itv_zpsgvev7nbl.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 2</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=67</page>
+<referer>http://www.zoptv.com/live/itv2</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/itv_zpsgvev7nbl.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 3</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=26</page>
+<referer>http://www.zoptv.com/live/itv3</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/itv_zpsgvev7nbl.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 4</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=101</page>
+<referer>http://www.zoptv.com/live/itv4</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/itv_zpsgvev7nbl.png</thumbnail>
+</item>
+
+<item>
+<title>MORE 4</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=97</page>
+<referer>http://www.zoptv.com/live/more4</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/4more_zpssnwbwwwi.png</thumbnail>
+</item>
+
+<item>
+<title>E4</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=65</page>
+<referer>http://www.zoptv.com/live/e4</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/e4_zpsdws64vpt.png</thumbnail>
+</item>
+
+<item>
+<title>CHANNEL 4</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=2</page>
+<referer>http://www.zoptv.com/live/channel-4-uk</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/channel4_zpstdj8gz2y.png</thumbnail>
+</item>
+
+<item>
+<title>CHANNEL 5</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=22</page>
+<referer>http://www.zoptv.com/live/channel-5-uk</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/channel5_zpsjoksxlul.png</thumbnail>
+</item>
+
+<item>
+<title>DAVE</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=370</page>
+<referer>http://www.zoptv.com/live/dave</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dave_zpspzohulyf.png</thumbnail>
+</item>
+
+<item>
+<title>CBBC</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=29</page>
+<referer>http://www.zoptv.com/live/cbbc</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cbbc_zpsq3cwygvx.png</thumbnail>
+</item>
+
+<item>
+<title>CBEEBIES</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=103</page>
+<referer>http://www.zoptv.com/live/cbeebies</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cbeebies_zpsatpkce58.png</thumbnail>
+</item>
+
+<item>
+<title>BBC ONE</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=14</page>
+<referer>http://www.zoptv.com/live/bbc-one</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/bbc_zpsvhge3iiw.png</thumbnail>
+</item>
+
+<item>
+<title>BBC TWO</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=25</page>
+<referer>http://www.zoptv.com/live/bbc-two</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/bbc_zpsvhge3iiw.png</thumbnail>
+</item>
+
+<item>
+<title>BBC THREE</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=113</page>
+<referer>http://www.zoptv.com/live/bbc-three</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/bbc_zpsvhge3iiw.png</thumbnail>
+</item>
+
+<item>
+<title>BBC FOUR</title>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>var src = '(.*?)';</expres>
+<page>http://www.iptvlinks.tk/fo/embed?id=103</page>
+<referer>http://www.zoptv.com/live/bbc-four</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/bbc_zpsvhge3iiw.png</thumbnail>
+</item>
