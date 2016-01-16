@@ -2,14 +2,10 @@
 
 <item>
 <title>Keranda Tok Wan Terbang (2015)</title>
-<link>rtmp://185.109.162.4:1935/vod/ playpath=mp4:01/00002/rxqwwet2un78_n?h=$doregex[url] swfUrl=http://videorev.cc/player6/jwplayer.flash.swf pageUrl=http://videorev.cc/embed-rxqwwet2un78.html</link>
-<regex>
-<name>url</name>
-<expres>mp4|(.*)|</expres>
-<page>view-source:http://videorev.cc/embed-rxqwwet2un78.html</page>
-<referer>http://watch.kakitube.com/2016/01/kerandaterbang/</referer>
-</regex>
-</item>
+<thumbnail>http://www.tontononline.net/wp-content/uploads/2015/10/Ada-Apa-Dekat-Bus-Stop-2015-Tonton-Online-Full-Movie.jpg</thumbnail>
+<fanart>http://media.therakyatpost.com/wp-content/uploads/sites/4/2015/11/NewMovie-m-2-600x360.jpg</fanart>
+<link>http://videorev.cc/v4mj3s2abk7jbmuik6arnzwixxzj3jztkfawscmdvv7xeiljph5gw3v7z5ka.smil|Referer=http://videorev.cc/player6/jwplayer.flash.swf</link>
+<item>
 
 <item>
 <title>Ada Apa Dekat Bus Stop (2015)</title>
