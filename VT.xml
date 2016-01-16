@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>AN NINH TV</title>
+<link>http://123.30.185.116/hls/antv.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_antv_zpsvllbma4s.png</thumbnail>
+</item>
+
+<item>
+<title>ITV</title>
+<link>rtmp://live.kenhitv.vn/liveweb//itv_web_500k.stream</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_itv_zpsjparsjir.png</thumbnail>
+</item>
+
+<item>
+<title>SCTV HAI</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_sctvhai_zpszrwu2n79.png</thumbnail>
+</item>
+
+<item>
+<title>VOV TV</title>
+<link>rtmp://210.245.60.242/vovtv/vovtv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_vov_zpsjgveaxha.png</thumbnail>
+</item>
