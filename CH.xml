@@ -5,7 +5,7 @@
 <link>$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
-  <expres>src="(.*?)"</expres>
+  <expres>src = '(.*?)';</expres>
   <page>http://www.iptvlinks.tk/kl/embed?id=cctv1hd</page>
   <referer>http://www.zoptv.com/live/cctv-1</referer>
 </regex>
@@ -29,7 +29,7 @@
 <link>$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
-  <expres>src="(.*?)"</expres>
+  <expres>src = '(.*?)';</expres>
   <page>http://www.iptvlinks.tk/kl/embed?id=cctv3hd</page>
   <referer>http://www.zoptv.com/live/cctv-3</referer>
 </regex>
@@ -41,7 +41,7 @@
 <link>$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
-  <expres>src="(.*?)"</expres>
+  <expres>src = '(.*?)';</expres>
   <page>http://www.iptvlinks.tk/kl/embed?id=cctv4</page>
   <referer>http://www.zoptv.com/live/cctv-4</referer>
 </regex>
@@ -89,7 +89,7 @@
 <link>$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
-  <expres>src="(.*?)"</expres>
+  <expres>src = '(.*?)';</expres>
   <page>http://www.iptvlinks.tk/kl/embed?id=cctv8hd</page>
   <referer>http://www.zoptv.com/live/cctv-8</referer>
 </regex>
