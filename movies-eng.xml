@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>AMC (US)</title>
+<title>AMC</title>
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
 <regex>
 <name>getM3U8</name>
@@ -14,49 +14,43 @@
 </item>
 
 <item>
-<title>DUBAI ONE (UAE)</title>
+<title>DUBAI ONE</title>
 <link>http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaione_zpssrf0caqz.png</thumbnail>
 </item>
 
 <item>
-<title>FOX 1 (SPAIN)</title>
+<title>FOX 1</title>
 <link>http://iptvcanales.com/xw/canales/canal.m3u8?canal=415&amp;profile=3|Referer=http://iptvcanales.com/jwplayer/jwplayer.flash.swf</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
 </item>
 
 <item>
-<title>FOX ACTION (MEXICO)</title>
+<title>FOX ACTION</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
 </item>
 
 <item>
-<title>FOX CRIME (THAI)</title>
-<link></link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
-</item>
-
-<item>
-<title>FOX CLASSICS (MEXICO)</title>
+<title>FOX CLASSICS</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
 </item>
 
 <item>
-<title>FOX MOVIES (MEXICO)</title>
+<title>FOX MOVIES</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
 </item>
 
 <item>
-<title>FILM ZONE (SPAIN)</title>
+<title>FILM ZONE</title>
 <link>http://iptvcanales.com/xw/canales/canal.m3u8?canal=440&amp;profile=3|Referer=http://iptvcanales.com/jwplayer/jwplayer.flash.swf</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filmzone_zpsxfzfes4j.png</thumbnail>
 </item>
 
 <item>
-<title>HBO (SPAIN)</title>
+<title>HBO</title>
 <link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</link>
 <regex>
 <name>m3u8</name>
@@ -68,25 +62,13 @@
 </item>
 
 <item>
-<title>MBC 2 (UAE)</title>
+<title>MBC 2</title>
 <link>http://63.237.48.23/ios/MBC2/MBC2.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc2_zpsxjojooiw.png</thumbnail>
 </item>
 
 <item>
-<title>MBC 4 (UAE)</title>
-<link>http://63.237.48.23/ios/MBC_4/MBC_4.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc4_zpsysprui9q.png</thumbnail>
-</item>
-
-<item>
-<title>MBC ACTION (UAE)</title>
-<link>http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbcaction_zpsgok0amsy.png</thumbnail>
-</item>
-
-<item>
-<title>MBC MAX (UAE)</title>
+<title>MBC MAX</title>
 <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
 <regex>
 <name>getrtmp</name>
@@ -104,25 +86,25 @@
 </item>
 
 <item>
-<title>SYFY (US)</title>
+<title>SYFY</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/syfy_zpsjw4dxznn.png</thumbnail>
 </item>
 
 <item>
-<title>TNT SERIES (MEXICO)</title>
+<title>TNT SERIES</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tnt_zpslpgj9a4e.png</thumbnail>
 </item>
 
 <item>
-<title>UNIVERSAL CHANNEL (MEXICO)</title>
+<title>UNIVERSAL CHANNEL</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/universaltv_zpsi6xuiygt.png</thumbnail>
 </item>
 
 <item>
-<title>WARNER BROS TV (MEXICO)</title>
+<title>WARNER BROS TV</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/wbtv_zpscefon90s.png</thumbnail>
 </item>
