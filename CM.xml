@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>CNC TV</title>
+<link>http://119.82.251.230/live/smil:channel3.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_cnc_zpsc57txxpv.png</thumbnail>
+</item>
+
+<item>
+<title>CTN</title>
+<link>http://119.82.251.230/live/smil:channel1.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_ctn_zpsdz5kfnhb.png</thumbnail>
+</item>
+
+<item>
+<title>MYTV</title>
+<link>http://119.82.251.230/live/smil:channel2.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_mytv_zpsfblvslqd.png</thumbnail>
+</item>
+
+<item>
+<title>SEA TV</title>
+<link>rtmp://203.176.137.164/rtplive/myStream</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_seatv_zpsbjrvhvdb.png</thumbnail>
+</item>
+
+<item>
+<title>TVK TV</title>
+<link>http://svr-wow-live.khmerlive.tv/live/ngrp:tvk.stream_all/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_tvk_zpsm4yyggbr.png</thumbnail>
+</item>
