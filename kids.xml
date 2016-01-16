@@ -1,45 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>ANI PLUS (SUBTITLE INDONESIA)</title>
+<title>ANI PLUS</title>
 <link>http://118.97.183.222:1935/discover/aniplus/chunklist_w698076622.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/aniplus_zpsfoiivoin.png</thumbnail>
 </item>
   
 <item>
-<title>CARTOON NETWORK (ENGLISH)</title>
+<title>CARTOON NETWORK</title>
 <link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cartoonnetwork_zpsimenizaj.png</thumbnail>
 </item>
 
 <item>
-<title>CBEEBIES (SPANISH)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<title>CBBC</title>
+<link>$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '(.*?)';</expres>
+  <page>http://www.iptvlinks.tk/fo/embed?id=29</page>
+  <referer>http://www.zoptv.com/live/cbbc</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cbbc_zpsq3cwygvx.png</thumbnail>
+</item>
+
+<item>
+<title>CBEEBIES</title>
+<link>$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '(.*?)';</expres>
+  <page>http://www.iptvlinks.tk/fo/embed?id=103</page>
+  <referer>http://www.zoptv.com/live/cbeebies</referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cbeebies_zpsatpkce58.png</thumbnail>
 </item>
+<item>
 
 <item>
-<title>DISNEY CHANNEL (SPANISH)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<title>DISNEY CHANNEL</title>
+<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="/(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/ds/embed?id=disney-uk</page>
+  <referer>http://www.zoptv.com/live/disney-uk</referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneychannel_zpsopmavh0t.png</thumbnail>
-</item>
-
-<item>
-<title>DISNEY XD (ENGLISH)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneychannel_zpsopmavh0t.png</thumbnail>
-</item>
-
-<item>
-<title>DISNEY JUNIOR (ENGLISH)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL308/PROFILE02.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneyjunior_zpsjeop4e9h.png</thumbnail>
-</item>
-
-<item>
-<title>DISNEY JUNIOR (SPANISH)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneyjunior_zpsjeop4e9h.png</thumbnail>
 </item>
 
 <item>
@@ -55,31 +62,31 @@
 </item>
 
 <item>
+<title>MBC 3 (ARABIC)</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+<regex>
+  <name>getrtmp</name>
+  <expres>streamer="(.*?)";</expres>
+  <referer>http://iptv-planet.com/mbc1.html</referer>
+  <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400</page>
+</regex>
+<regex>
+  <name>getplaypath</name>
+  <expres>'file': '(.*?)'</expres>
+  <referer>http://iptv-planet.com/mbc1.html</referer>
+  <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=600&amp;height=400</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc3_zpsau05h85v.png</thumbnail>
+</item>
+
+<item>
 <title>GEM JUNIOR (ARABIC)</title>
 <link>http://63.237.48.23/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
 </item>
 
 <item>
-<title>NICK (SPANISH)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nickelodeon_zpsvlgsndi5.png</thumbnail>
-</item>
-
-<item>
-<title>NICK JUNIOR (SPANISH)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nickelodeon_zpsvlgsndi5.png</thumbnail>
-</item
-
-<item>
-<title>NICK JUNIOR (ENGLISH)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL317/PROFILE02.m3u8?supertvlat%3D%2F%2Ets</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nickelodeon_zpsvlgsndi5.png</thumbnail>
-</item>
-
-<item>
-<title>UPIN IPIN (MALAY) - SEASON 8</title>
+<title>UPIN IPIN (MALAY)</title>
 <link>plugin://plugin.video.youtube/play/?playlist_id=PLF5YLEweOyGZyw1wkkLwUgbdtDWZGmEoR&amp;video_id=k6NjUBOJ0_E&amp;order=default</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/upinipin_zpsex5bud3u.png</thumbnail>
 </item>
