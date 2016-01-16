@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>ABC FAMILY</title>
+<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/abc-family.php</link>
+<regex>
+<name>getM3U8</name>
+<expres>src : '(.*?)'</expres>
+<page>http://shadow.go.ro/shadownet/channels/usa/player/abc-family.php</page>
+<referer>http://www.sdw-net.co/channels/ABC-Family.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/abcfamily_zpssjbvkrna.png</thumbnail>
+</item>
+
+<item>
 <title>AMC</title>
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
 <regex>
@@ -89,6 +102,19 @@
 <title>SYFY</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/syfy_zpsjw4dxznn.png</thumbnail>
+</item>
+
+<item>
+<title>SKY ATLANTIC</title>
+<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/uktv/player/sky-atlantic-uk.php</link>
+<regex>
+<name>getM3U8</name>
+<expres>src : '(.*?)'</expres>
+<page>http://shadow.go.ro/shadownet/channels/uktv/player/sky-atlantic-uk.php</page>
+<referer>http://www.sdw-net.co/channels/Sky-Atlantic.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
 <item>
