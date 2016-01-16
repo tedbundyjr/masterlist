@@ -14,9 +14,27 @@
 </item>
 
 <item>
+<title>AHSAN TV</title>
+<link>rtmp://202.182.56.21/live/ahsantv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ahsantv_zpspofotaos.png</thumbnail>
+</item>
+
+<item>
+<title>ASWAJA TV</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/aswajatv_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_aswajatv_zpsd3v2bq3u.png</thumbnail>
+</item>
+
+<item>
 <title>BERITA SATU</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/beritasatu_240p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
+</item>
+
+<item>
+<title>BUNAYYA TV</title>
+<link>rtmp://119.235.249.60:1935/bunayyatv/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_bunayyatv_zpsouc4qh1i.png</thumbnail>
 </item>
 
 <item>
@@ -68,6 +86,12 @@
 </item>
 
 <item>
+<title>HANG TV</title>
+<link>rtmp://128.199.96.198:1935/live/hangtv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_hangtv_zpsqnqygugs.png</thumbnail>
+</item>
+
+<item>
 <title>HOT HITS</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/hothits_576p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_hothits_zpsrob0njnq.png</thumbnail>
@@ -89,6 +113,12 @@
 <title>INDOSIAR</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_576p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
+</item>
+
+<item>
+<title>INSAN TV</title>
+<link>rtmp://insantv.com/live/insantv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_insantv_zpsjsisshrg.png</thumbnail>
 </item>
 
 <item>
@@ -146,6 +176,18 @@
 </item>
 
 <item>
+<title>MUHAMMADIYAH TV</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_muhammadiyahtv_zps3palgnzf.png</thumbnail>
+</item>
+
+<item>
+<title>NABAWI TV (INDONESIA)</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/nabawitv_192p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_nabawitv_zpso78xvigy.png</thumbnail>
+</item>
+
+<item>
 <title>NET.</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/nettv_480p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_nettv_zpskioucxna.png</thumbnail>
@@ -158,6 +200,12 @@
 </item>
 
 <item>
+<title>RODJA TV</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rodjatv_zpsut2hukng.png</thumbnail>
+</item>
+
+<item>
 <title>RCTI</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/rcti2_576p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
@@ -167,6 +215,18 @@
 <title>RTV</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/rajawalitv.stream_576p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rtv_zps7zwluxo5.png</thumbnail>
+</item>
+
+<item>
+<title>SALWA TV</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_salwatv_zpsdoltiael.png</thumbnail>
+</item>
+
+<item>
+<title>SURAU TV</title>
+<link>http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_surautv_zpsers5c5sj.png</thumbnail>
 </item>
 
 <item>
@@ -242,7 +302,37 @@
 </item>
 
 <item>
+<title>TAHFIDZ TV</title>
+<link>rtmp://119.235.249.58:1935/tahfidztv/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tahfidztv_zpsgmpqbobz.png</thumbnail>
+</item>
+
+<item>
+<title>TV9</title>
+<link>rtmp://119.235.249.60/tv9/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tv9_zpslribghvy.png</thumbnail>
+</item>
+
+<item>
 <title>U CHANNEL</title>
 <link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/uchannel_576p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_uchannel_zpsvgykqd8s.png</thumbnail>
+</item>
+
+<item>
+<title>UMMAT TV</title>
+<link>http://ummattv2.onlivestreaming.net/ummattv2/livestream/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ummattv_zpszgq72y8w.png</thumbnail>
+</item>
+
+<item>
+<title>WESAL TV</title>
+<link>rtmp://119.235.249.60:1935/wesaltv/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_wesaltv_zpspg85d8ho.png</thumbnail>
+</item>
+
+<item>
+<title>ZAKAT TV</title>
+<link>rtmp://118.91.130.57:1935/live/zakattv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_zakattv_zpsxu909r7z.png</thumbnail>
 </item>
