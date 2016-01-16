@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>ANI PLUS</title>
+<title>ANIPLUS</title>
 <link>http://118.97.183.222:1935/discover/aniplus/chunklist_w698076622.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/aniplus_zpsfoiivoin.png</thumbnail>
 </item>
@@ -38,21 +38,29 @@
 <item>
 
 <item>
-<title>DISNEY CHANNEL</title>
-<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
+<title>DISNEY CHANNEL (US)</title>
+<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
 <regex>
-  <name>m3u8</name>
-  <expres>src="/(.*?)"</expres>
-  <page>http://www.iptvlinks.tk/ds/embed?id=disney-uk</page>
-  <referer>http://www.zoptv.com/live/disney-uk</referer>
+<name>getM3U8</name>
+<expres>src : '(.*?)'</expres>
+<page>http://shadow.go.ro/shadownet/channels/usa/player/disney-channel.php</page>
+<referer>http://www.sdw-net.co/channels/Disney-Channel-US.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneychannel_zpsopmavh0t.png</thumbnail>
 </item>
 
 <item>
-<title>DIDI & FRIENDS (MALAY)</title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PL5B7QzKgckD1e6Atw6Ji7KZbVb5TZv0JZ&amp;video_id=pzAJ10aRuBM&amp;order=default</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/didi_zpsjyw7n3ky.png</thumbnail>
+<title>DISNEY CHANNEL (UK)</title>
+<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
+<regex>
+<name>getM3U8</name>
+<expres>src : '(.*?)'</expres>
+<page>http://shadow.go.ro/shadownet/channels/uktv/player/disney-channel.php</page>
+<referer>http://www.sdw-net.co/channels/Disney-Channel-UK.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneychannel_zpsopmavh0t.png</thumbnail>
 </item>
 
 <item>
@@ -86,7 +94,25 @@
 </item>
 
 <item>
-<title>UPIN IPIN (MALAY)</title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PLF5YLEweOyGZyw1wkkLwUgbdtDWZGmEoR&amp;video_id=k6NjUBOJ0_E&amp;order=default</link>
+<title>===== MALAYSIA ANIME =====</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DIDI & FRIENDS</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/didi_zpsjyw7n3ky.png</thumbnail>
+</item>
+
+<item>
+<title>UPIN IPIN</title>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/upinipin_zpsex5bud3u.png</thumbnail>
+</item>
+
+<item>
+<title>BOBOIBOY</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/boboiboy_zpsvxpjhhoq.png</thumbnail>
 </item>
