@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>MV LAO TV</title>
+<link>http://103.40.138.89:1935/live/mvlao/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/LS_mvlaotv_zpsshtrxcuc.png</thumbnail>
+</item>
+
+<item>
+<title>TV LAO</title>
+<link>http://live10.netdesignhost.com/tvlaolive/tvlaolive/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/LS_tvlao_zpsipbuef5y.png</thumbnail>
+</item>
