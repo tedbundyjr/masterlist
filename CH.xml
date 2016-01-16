@@ -1,6 +1,126 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>CCTV-1</title>
+<link>$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/kl/embed?id=cctv1hd</page>
+  <referer>http://www.zoptv.com/live/cctv-1</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>CCTV-2</title>
+<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="/(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/le/embed?id=cctv2</page>
+  <referer>http://www.zoptv.com/live/cctv-2</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>CCTV-3</title>
+<link>$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/kl/embed?id=cctv3hd</page>
+  <referer>http://www.zoptv.com/live/cctv-3</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>CCTV-4</title>
+<link>$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/kl/embed?id=cctv4</page>
+  <referer>http://www.zoptv.com/live/cctv-4</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>CCTV-5</title>
+<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="/(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/le/embed?id=cctv5_1300</page>
+  <referer>http://www.zoptv.com/live/cctv-5</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>CCTV-6</title>
+<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="/(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/le/embed?id=cctv6HD_1300</page>
+  <referer>http://www.zoptv.com/live/cctv-6</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>CCTV-7</title>
+<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="/(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/le/embed?id=cctv7</page>
+  <referer>http://www.zoptv.com/live/cctv-7</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>CCTV-8</title>
+<link>$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/kl/embed?id=cctv8hd</page>
+  <referer>http://www.zoptv.com/live/cctv-8</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>CCTV-9</title>
+<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="/(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/le/embed?id=cctv9</page>
+  <referer>http://www.zoptv.com/live/cctv-9</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>CCTV-10</title>
+<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>src="/(.*?)"</expres>
+  <page>http://www.iptvlinks.tk/le/embed?id=cctv10</page>
+  <referer>http://www.zoptv.com/live/cctv-10</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
 <title>CHINA MOVIE</title>
 <link>http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/chinamovie_zpsu5rd56hv.png</thumbnail>
