@@ -57,7 +57,7 @@
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/uktv/player/box-nation.php</link>
 <regex>
 <name>getM3U8</name>
-<expres>src : '(.*?)'</expres>
+<expres>src="(.*?)"</expres>
 <page>http://shadow.go.ro/shadownet/channels/uktv/player/box-nation.php</page>
 <referer>http://www.sdw-net.co/channels/BoxNation.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
