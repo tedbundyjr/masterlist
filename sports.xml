@@ -143,7 +143,7 @@
 </item>
 
 <item>
-<title>NBSN</title>
+<title>NBCSN</title>
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/nbc-sports.php</link>
 <regex>
 <name>getM3U8</name>
