@@ -103,6 +103,12 @@
 </item>
 
 <item>
+<title>KCTV</title>
+<link>rtsp://media2.kctvjeju.com/live5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>MBC</title>
 <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://www.iptvlinks.tk/player/jwplayer/JWPlayer.swf pageUrl=http://www.iptvlinks.tk/kb/embed?id=rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream</link>
 <regex>
