@@ -151,6 +151,12 @@
 </item>
 
 <item>
+<title>PLAYY WEST</title>
+<link>http://123.108.164.71/etv2sb/phd743/lihattv.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SBS</title>
 <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://www.iptvlinks.tk/player/jwplayer/JWPlayer.swf pageUrl=http://www.iptvlinks.tk/kb/embed?id=rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream</link>
 <regex>
