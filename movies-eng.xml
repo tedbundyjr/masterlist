@@ -63,13 +63,23 @@
 </item>
 
 <item>
-<title>HBO</title>
-<link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</link>
+<title>HBO MOVIES</title>
+<link>$doregex[url]</link>
 <regex>
-<name>m3u8</name>
-<expres>flashvars" value="src=(.*?)&amp;</expres>
-<page>http://iptvcanales.com/xw/reproductor.php?cmd=385</page>
-<referer>http://iptvcanales.com/</referer>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/68358',False,False)</expres>
+	<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hbo_zpsbhssat2t.png</thumbnail>
+</item>
+
+<item>
+<title>HBO COMEDY</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/38214',False,False)</expres>
+	<page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hbo_zpsbhssat2t.png</thumbnail>
 </item>
@@ -78,6 +88,18 @@
 <title>MBC 2</title>
 <link>http://63.237.48.23/ios/MBC2/MBC2.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc2_zpsxjojooiw.png</thumbnail>
+</item>
+
+<item>
+<title>MBC 4</title>
+<link>http://63.237.48.23/ios/MBC_4/MBC_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc4_zpsysprui9q.png</thumbnail>
+</item>
+
+<item>
+<title>MBC ACTION</title>
+<link>http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbcaction_zpsgok0amsy.png</thumbnail>
 </item>
 
 <item>
