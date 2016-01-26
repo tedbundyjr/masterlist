@@ -1,31 +1,128 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>Girlfriend Kontrak (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bdbriyczp5ki-640x360.html</link>
+<thumbnail>http://pencurimovie.se/wp-content/uploads/2016/01/7awekkontrak00_450.jpg</thumbnail>
+<fanart>http://www.star2.com/wp-content/uploads/2015/09/str2_ONLINE_angelin_1-770x470.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-bdbriyczp5ki-640x360.html</page>
+<referer>http://streamin.to/bdbriyczp5ki</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-bdbriyczp5ki-640x360.html</page>
+<referer>http://streamin.to/bdbriyczp5ki</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-bdbriyczp5ki-640x360.html</page>
+<referer>http://streamin.to/bdbriyczp5ki</referer>
+</regex>
+</item>
+
+<item>
 <title>Apartmen (2015)</title>
-<link>rtmp://83.149.125.37:1935/vod/ playpath=mp4:01/00003/ff830h62lotd_l?h=v4mj2u2jbk7jbmuik6abn4ww6ts5hs42grcefqvklqwpe4t3prlfynhlv5gq swfUrl=http://videorev.cc/player6/jwplayer.flash.swf pageUrl=http://videorev.cc/embed-ff830h62lotd.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-un49b40f4syn-640x360.html</link>
 <thumbnail>http://pencurimovie.cr/wp-content/uploads/2016/01/7apartment201500_450.jpg</thumbnail>
 <fanart>http://www.cinema.com.my/images/news/2015/7f_sebabperlutontonapartment00.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-un49b40f4syn-640x360.html</page>
+<referer>http://streamin.to/un49b40f4syn</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-un49b40f4syn-640x360.html</page>
+<referer>http://streamin.to/un49b40f4syn</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-un49b40f4syn-640x360.html</page>
+<referer>http://streamin.to/un49b40f4syn</referer>
+</regex>
 </item>
 
 <item>
 <title>Chowrasta (2015)</title>
-<link>rtmp://185.109.162.4:1935/vod/ playpath=mp4:01/00002/yohnu70fd1i7_l?h=v4mj3ssabk7jbmuik6arn3o7usovlt4ychcytaxagimqw2d722xctknrvvla swfUrl=http://videorev.cc/player6/jwplayer.flash.swf pageUrl=http://videorev.cc/embed-yohnu70fd1i7.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-t7vqhl886cmb-640x360.html</link>
 <thumbnail>http://pencurimovie.cr/wp-content/uploads/2015/12/chowrasta.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/media/CHJo2t9UUAArZTB.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-t7vqhl886cmb-640x360.html</page>
+<referer>http://streamin.to/t7vqhl886cmb</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-t7vqhl886cmb-640x360.html</page>
+<referer>http://streamin.to/t7vqhl886cmb</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-t7vqhl886cmb-640x360.html</page>
+<referer>http://streamin.to/t7vqhl886cmb</referer>
+</regex>
 </item>
 
 <item>
 <title>Isteri Untuk Dijual (2015)</title>
-<link>rtmp://83.149.125.37:1935/vod/ playpath=mp4:01/00003/q9vgy2w5h71l_n?h=v4mj2z2kbk7jbmuik6abnzmjxiwdkbbb5bhgww7uoilt6waxakvfykxzj5ha swfUrl=http://videorev.cc/player6/jwplayer.flash.swf pageUrl=http://videorev.cc/embed-q9vgy2w5h71l.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-sbihkrsp0lnj-640x360.html</link>
 <thumbnail>http://pencurimovie.cr/wp-content/uploads/2016/01/7isterijual00_450.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-Xy0Lync5HBk/VnuLVfRx4gI/AAAAAAAAbV0/QzLsBNRqCGw/s1600/IUD.png</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-sbihkrsp0lnj-640x360.html</page>
+<referer>http://streamin.to/sbihkrsp0lnj</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-sbihkrsp0lnj-640x360.html</page>
+<referer>http://streamin.to/sbihkrsp0lnj</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-sbihkrsp0lnj-640x360.html</page>
+<referer>http://streamin.to/sbihkrsp0lnj</referer>
+</regex>
 </item>
 
 <item>
 <title>Keranda Tok Wan Terbang (2015)</title>
-<link>rtmp://185.109.162.4:1935/vod/ playpath=mp4:01/00002/rxqwwet2un78_n?h=v4mj3s2abk7jbmuik6arnzwixxzj3jztkfawscmdukvheiljph5izlhu7l2q swfUrl=http://videorev.cc/player6/jwplayer.flash.swf pageUrl=http://videorev.cc/embed-rxqwwet2un78.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-rl37ezouc1qp-640x360.html</link>
 <thumbnail>http://pencurimovie.cr/wp-content/uploads/2016/01/7kerandatok00_450.jpg</thumbnail>
 <fanart>https://astrocontent.s3.amazonaws.com/Images/A1ABPoster/179216.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-rl37ezouc1qp-640x360.html</page>
+<referer>http://streamin.to/rl37ezouc1qp</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-rl37ezouc1qp-640x360.html</page>
+<referer>http://streamin.to/rl37ezouc1qp</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-rl37ezouc1qp-640x360.html</page>
+<referer>http://streamin.to/rl37ezouc1qp</referer>
+</regex>
 </item>
 
 <item>
