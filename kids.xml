@@ -59,7 +59,13 @@
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneychannel_zpsopmavh0t.png</thumbnail>
-</item
+</item>
+
+<item>
+<title>GEM JUNIOR (ARABIC)</title>
+<link>http://63.237.48.23/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
+</item>
 
 <item>
 <title>JEEM TV (ARABIC)</title>
@@ -96,12 +102,6 @@
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nickelodeon_zpsvlgsndi5.png</thumbnail>
-</item>
-
-<item>
-<title>GEM JUNIOR (ARABIC)</title>
-<link>http://63.237.48.23/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
 </item>
 
 <item>
