@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>Masjid al-Haram, Makkah</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link>
+<thumbnail>https://worldreligion4790.files.wordpress.com/2012/10/hajj2.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>Al-Masjid an-Nabawi, Madinah</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4OoKpZWJASY</link>
+<thumbnail>http://www.lazywazy.in/wp-content/uploads/2015/09/masjid-nabawi-madinatul-munawwaroh2.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
+<title>AHSAN TV (INDONESIA)</title>
+<link>rtmp://202.182.56.21/live/ahsantv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ahsantv_zpspofotaos.png</thumbnail>
+</item>
+
+<item>
+<title>ASWAJA TV (INDONESIA)</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/aswajatv_480p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_aswajatv_zpsd3v2bq3u.png</thumbnail>
+</item>
+
+<item>
+<title>BUNAYYA TV (INDONESIA)</title>
+<link>rtmp://119.235.249.60:1935/bunayyatv/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_bunayyatv_zpsouc4qh1i.png</thumbnail>
+</item>
+
+<item>
+<title>DUBAI NOOR (UAE)</title>
+<link>http://dmivll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b750000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubainoor_zpskjpoqal7.png</thumbnail>
+</item>
+
+<item>
+<title>HANG TV (INDONESIA)</title>
+<link>rtmp://128.199.96.198:1935/live/hangtv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_hangtv_zpsqnqygugs.png</thumbnail>
+</item>
+
+<item>
+<title>ISLAM CHANNEL (PAKISTAN)</title>
+<link>http://wowza04.sharp-stream.com/islamtv/islamtv/HasBahCa.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/islamchannel_zpsfou0lfu5.png</thumbnail>
+</item>
+
+<item>
+<title>INSAN TV (INDONESIA)</title>
+<link>rtmp://insantv.com/live/insantv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_insantv_zpsjsisshrg.png</thumbnail>
+</item>
+
+<item>
+<title>MUSLIM TV (THAI)</title>
+<link>http://radio2.thaidhost.com:8888/muslimonair2/live/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_thaimuslimtv_zpsxjcgn028.png</thumbnail>
+</item>
+
+<item>
+<title>MUHAMMADIYAH TV (INDONESIA)</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_muhammadiyahtv_zps3palgnzf.png</thumbnail>
+</item>
+
+<item>
+<title>NABAWI TV (INDONESIA)</title>
+<link>http://edge.nim.mivo.tv/mp17pjqx1esapruf/nabawitv_192p/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_nabawitv_zpso78xvigy.png</thumbnail>
+</item>
+
+<item>
+<title>PEACE TV (UK)</title>
+<link>rtmp://peace.fms.visionip.tv/live/b2b-peace_sky-live-25f-4x3-sdh_1</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/peacetv_zps5zg6i9b2.png</thumbnail>
+</item>
+
+<item>
+<title>RODJA TV (INDONESIA)</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rodjatv_zpsut2hukng.png</thumbnail>
+</item>
+
+<item>
+<title>SALWA TV (INDONESIA)</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_salwatv_zpsdoltiael.png</thumbnail>
+</item>
+
+<item>
+<title>SURAU TV (INDONESIA)</title>
+<link>http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_surautv_zpsers5c5sj.png</thumbnail>
+</item>
+
+<item>
+<title>TAHFIDZ TV (INDONESIA)</title>
+<link>rtmp://119.235.249.58:1935/tahfidztv/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tahfidztv_zpsgmpqbobz.png</thumbnail>
+</item>
+
+<item>
+<title>TV9 (INDONESIA)</title>
+<link>rtmp://119.235.249.60/tv9/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tv9_zpslribghvy.png</thumbnail>
+</item>
+
+<item>
+<title>UMMAT TV (INDONESIA)</title>
+<link>http://ummattv2.onlivestreaming.net/ummattv2/livestream/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ummattv_zpszgq72y8w.png</thumbnail>
+</item>
+
+<item>
+<title>WESAL TV (INDONESIA)</title>
+<link>rtmp://119.235.249.60:1935/wesaltv/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_wesaltv_zpspg85d8ho.png</thumbnail>
+</item>
+
+<item>
+<title>ZAKAT TV (INDONESIA)</title>
+<link>rtmp://118.91.130.57:1935/live/zakattv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_zakattv_zpsxu909r7z.png</thumbnail>
+</item>
