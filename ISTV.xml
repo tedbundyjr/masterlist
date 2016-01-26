@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>[COLOR orange]Live from Makkah and Madinah[/COLOR]</title>
+<link>.</link>
+<thumbnail>http://s5.postimg.org/efbq7cg13/Live_TV.jpg</thumbnail>
+<fanart>http://thumbs.dreamstime.com/x/islamic-art-alhambra-2591490.jpg</fanart>
+</item>
+
+<item>
 <title>Masjid al-Haram, Makkah</title>
 <link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link>
 <thumbnail>https://worldreligion4790.files.wordpress.com/2012/10/hajj2.jpg</thumbnail>
