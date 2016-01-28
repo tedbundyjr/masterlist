@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>ABC</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/68969',False,False)</expres>
+	<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/abc_zpsina7mqq1.png</thumbnail>
+</item>
+
+<item>
 <title>ABC FAMILY</title>
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/abc-family.php</link>
 <regex>
