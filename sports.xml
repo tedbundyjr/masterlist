@@ -112,6 +112,12 @@ item>
 </item>
 
 <item>
+<title>NBA TV</title>
+<link>http://nlds16.cdnak.neulion.com/nlds/nba/nba247/as/live/nba247_hd_3000.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/nbcgolf_zpscfntlrtf.png</thumbnail>
+</item>
+
+<item>
 <title>NBCSN</title>
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/nbc-sports.php</link>
 <regex>
