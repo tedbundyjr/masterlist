@@ -38,25 +38,12 @@
 <item>
 
 <item>
-<title>DISNEY CHANNEL (US)</title>
+<title>DISNEY CHANNEL</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/38804',False,False)</expres>
 	<page></page>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneychannel_zpsopmavh0t.png</thumbnail>
-</item>
-
-<item>
-<title>DISNEY CHANNEL (UK)</title>
-<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/uktv/player/disney-channel.php</link>
-<regex>
-<name>getM3U8</name>
-<expres>src : '(.*?)'</expres>
-<page>http://shadow.go.ro/shadownet/channels/uktv/player/disney-channel.php</page>
-<referer>http://www.sdw-net.co/channels/Disney-Channel-UK.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneychannel_zpsopmavh0t.png</thumbnail>
 </item>
