@@ -12,19 +12,6 @@
 </item>
 
 <item>
-<title>ABC FAMILY</title>
-<link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/abc-family.php</link>
-<regex>
-<name>getM3U8</name>
-<expres>src : '(.*?)'</expres>
-<page>http://shadow.go.ro/shadownet/channels/usa/player/abc-family.php</page>
-<referer>http://www.sdw-net.co/channels/ABC-Family.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/abcfamily_zpssjbvkrna.png</thumbnail>
-</item>
-
-<item>
 <title>AMC</title>
 <link>$doregex[getM3U8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://shadow.go.ro/shadownet/channels/usa/player/amc-east.php</link>
 <regex>
@@ -38,30 +25,54 @@
 </item>
 
 <item>
+<title>AXN</title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:axn/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
+</item>
+
+<item>
+<title>AXN WHITE</title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
+</item>
+
+<item>
+<title>AXN BLACK</title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
+</item>
+
+<item>
+<title>AXN SPIN</title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
+</item>
+
+<item>
 <title>DUBAI ONE</title>
 <link>http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaione_zpssrf0caqz.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>FOX 1 CANAL</title>
 <link>http://iptvcanales.com/xw/canales/canal.m3u8?canal=415&amp;profile=3|Referer=http://iptvcanales.com/jwplayer/jwplayer.flash.swf</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>FOX ACTION CANAL</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>FOX CLASSICS CANAL</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>FOX MOVIES CANAL</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
@@ -78,7 +89,7 @@ item>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>FILM ZONE CANAL</title>
 <link>http://iptvcanales.com/xw/canales/canal.m3u8?canal=440&amp;profile=3|Referer=http://iptvcanales.com/jwplayer/jwplayer.flash.swf</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filmzone_zpsxfzfes4j.png</thumbnail>
@@ -153,7 +164,7 @@ item>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/mbcmax_zpsebbjdrjt.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>SONY CANAL</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sony_zps7c74bily.png</thumbnail>
@@ -195,19 +206,19 @@ item>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/showtime_zpsebfxxjph.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>TNT SERIES CANAL</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tnt_zpslpgj9a4e.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>UNIVERSAL CHANNEL CANAL</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/universaltv_zpsi6xuiygt.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>WARNER TV CANAL</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=%2F.ts</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/wbtv_zpscefon90s.png</thumbnail>
