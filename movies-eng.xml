@@ -26,25 +26,12 @@
 
 <item>
 <title>AXN</title>
-<link>http://178.21.120.198:1935/live3/_definst_/mp4:axn/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
-</item>
-
-<item>
-<title>AXN WHITE</title>
-<link>http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
-</item>
-
-<item>
-<title>AXN BLACK</title>
-<link>http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
-</item>
-
-<item>
-<title>AXN SPIN</title>
-<link>http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8</link>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/73310',False,False)</expres>
+	<page></page>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
 </item>
 
