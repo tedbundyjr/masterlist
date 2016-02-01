@@ -4,106 +4,138 @@
 <title>TV1</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch001_1080_all/chunklist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>TV2</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/chunklist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 item>
 <title>TV3</title>
 <link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master002.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>TV3</title>
 <link>http://penang.layarku.tv/edge/149_323_live/chunklist_w1314099846.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 item>
 <title>NTV7</title>
 <link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 item>
 <title>8TV</title>
 <link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 item>
 <title>TV9</title>
 <link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>AL-HIJRAH</title>
 <link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>ASTRO RIA</title>
 <link>http://penang.layarku.tv/edge/149_327_live/chunklist_w590415699.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ria_zps6zrje2dc.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
+</item>
+
+<item>
+<title>ASTRO WARNA</title>
+<link>http://sg.layarku.tv/edge/149_369_live/chunklist_w433672773.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_warna_zpstzts3reb.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
+</item>
+
+<item>
+<title>ASTRO OASIS</title>
+<link>http://penang.layarku.tv/edge/149_329_live/chunklist_w278239321.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_oasis_zpsr40ug54q.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>TVi</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch003_1080_all/chunklist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>MUZIK AKTIF</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch004_1080_all/chunklist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>1 NEWS</title>
 <link>http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch006_1080_all/chunklist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>RTM PARLIMEN</title>
 <link>http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch007_1080_all/chunklist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>AKSI SUKAN</title>
 <link>http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch008_all/chunklist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>MARA TV</title>
 <link>http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>BERNAMA TV</title>
 <link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>ASTRO AWANI</title>
 <link>http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
 <item>
 <title>ASTRO ARENA</title>
 <link>http://penang.layarku.tv/edge/149_330_live/chunklist_w968005433.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_arena_zpsyciworbm.png</thumbnail>
+<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
