@@ -2,6 +2,13 @@
 
 <item>
 <title>Bajrangi Bhaijaan (2015)</title>
+<link>https://copy.com/x71HaiQPMxonQYCy</link>
+<thumbnail>http://www.media.glamsham.com/download/poster/images/bajrang-bhaijaan/05-bajrang-bhaijaan.jpg</thumbnail>
+<fanart>http://telugumoviez.com/wp-content/uploads/2015/07/ds.jpeg</fanart>
+</item>
+
+item>
+<title>Bajrangi Bhaijaan (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-rp2h1e06cs9c-640x360.html</link>
 <thumbnail>http://www.media.glamsham.com/download/poster/images/bajrang-bhaijaan/05-bajrang-bhaijaan.jpg</thumbnail>
 <fanart>http://telugumoviez.com/wp-content/uploads/2015/07/ds.jpeg</fanart>
