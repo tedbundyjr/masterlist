@@ -2,25 +2,25 @@
 
 <item>
 <title>Bajrangi Bhaijaan (2015)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-85pmxwel55y2-640x360.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-rp2h1e06cs9c-640x360.html</link>
 <thumbnail>http://www.media.glamsham.com/download/poster/images/bajrang-bhaijaan/05-bajrang-bhaijaan.jpg</thumbnail>
 <fanart>http://telugumoviez.com/wp-content/uploads/2015/07/ds.jpeg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-85pmxwel55y2-640x360.html</page>
-<referer>http://streamin.to/85pmxwel55y2</referer>
+<page>http://streamin.to/embed-rp2h1e06cs9c-640x360.html</page>
+<referer>http://streamin.to/rp2h1e06cs9c</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-85pmxwel55y2-640x360.html</page>
-<referer>http://streamin.to/85pmxwel55y2</referer>
+<page>http://streamin.to/embed-rp2h1e06cs9c-640x360.html</page>
+<referer>http://streamin.to/rp2h1e06cs9c</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-85pmxwel55y2-640x360.html</page>
-<referer>http://streamin.to/85pmxwel55y2</referer>
+<page>http://streamin.to/embed-rp2h1e06cs9c-640x360.html</page>
+<referer>http://streamin.to/rp2h1e06cs9c</referer>
 </regex>
 </item>
