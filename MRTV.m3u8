@@ -12,7 +12,7 @@ http://d1dyjmgkbos6tr.cloudfront.net/ngrp:rtm-ch002_1080_all/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_tv3_zpsr9dziuob.png" group-title="MALAYSIA", TV3
 http://penang.layarku.tv/edge/149_323_live/chunklist_w1314099846.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="MALAYSIA", TV9
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_tv9_zpsyyhe8wgn.png" group-title="MALAYSIA", TV9
 http://penang.layarku.tv/edge/149_325_live/chunklist_w156613139.m3u8
 
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_ria_zpsljlhniqc.png" group-title="MALAYSIA", ASTRO RIA
@@ -21,7 +21,7 @@ http://penang.layarku.tv/edge/149_327_live/chunklist_w590415699.m3u8
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_warna_zpswsggehjh.png" group-title="MALAYSIA", ASTRO WARNA
 http://sg.layarku.tv/edge/149_369_live/chunklist_w433672773.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="MALAYSIA", ASTRO PRIMA
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_prima_zpswdaseqdo.png" group-title="MALAYSIA", ASTRO PRIMA
 http://sg.layarku.tv/edge/149_328_live/chunklist_w1621499343.m3u8
 
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Channel%20Logo/MY_oasis_zpsaf1ab0uu.png" group-title="MALAYSIA", ASTRO OASIS
