@@ -2,15 +2,8 @@
 
 <item>
 <title>Bajrangi Bhaijaan (2015)</title>
-<link>https://copy.com/x71HaiQPMxonQYCy</link>
-<thumbnail>http://www.media.glamsham.com/download/poster/images/bajrang-bhaijaan/05-bajrang-bhaijaan.jpg</thumbnail>
-<fanart>http://telugumoviez.com/wp-content/uploads/2015/07/ds.jpeg</fanart>
-</item>
-
-item>
-<title>Bajrangi Bhaijaan (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-rp2h1e06cs9c-640x360.html</link>
-<thumbnail>http://www.media.glamsham.com/download/poster/images/bajrang-bhaijaan/05-bajrang-bhaijaan.jpg</thumbnail>
+<thumbnail>http://static.koimoi.com/wp-content/new-galleries/2015/06/bajrangi-bhaijaan-movie-poster-4.jpg</thumbnail>
 <fanart>http://telugumoviez.com/wp-content/uploads/2015/07/ds.jpeg</fanart>
 <regex>
 <name>url</name>
@@ -29,5 +22,80 @@ item>
 <expres>file: "([^"]*)</expres>
 <page>http://streamin.to/embed-rp2h1e06cs9c-640x360.html</page>
 <referer>http://streamin.to/rp2h1e06cs9c</referer>
+</regex>
+</item>
+
+<item>
+<title>PK (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-173n8kjvraiw-640x360.html</link>
+<thumbnail>http://cdn.koimoi.com/wp-content/new-galleries/2014/10/pk-movie-poster-1.jpg</thumbnail>
+<fanart>http://blog.whatsupgurgaon.in/wp-content/uploads/2014/12/Pk-4th-poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-173n8kjvraiw-640x360.html</page>
+<referer>http://streamin.to/173n8kjvraiwc</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-173n8kjvraiw-640x360.html</page>
+<referer>http://streamin.to/173n8kjvraiw</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-173n8kjvraiw-640x360.html</page>
+<referer>http://streamin.to/173n8kjvraiw</referer>
+</regex>
+</item>
+
+<item>
+<title>Happy New Year (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bpuqcplv9ort-640x360.html</link>
+<thumbnail>http://cdn.koimoi.com/wp-content/new-galleries/2014/08/happy-new-year-movie-poster-1.jpg</thumbnail>
+<fanart>http://cdn.koimoi.com/wp-content/new-galleries/2014/08/happy-new-year-out-with-new-posters-03.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-bpuqcplv9ort-640x360.html</page>
+<referer>http://streamin.to/bpuqcplv9ort</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-bpuqcplv9ort-640x360.html</page>
+<referer>http://streamin.to/bpuqcplv9ort</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-bpuqcplv9ort-640x360.html</page>
+<referer>http://streamin.to/bpuqcplv9ort</referer>
+</regex>
+</item>
+
+<item>
+<title>Singham Returns (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1gppzg55yze8-640x360.html</link>
+<thumbnail>http://cdn.koimoi.com/wp-content/new-galleries/2014/07/singham-returns-poster-2.jpg</thumbnail>
+<fanart>http://st1.bollywoodlife.com/wp-content/uploads/2014/07/singham-poster-321.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-1gppzg55yze8-640x360.html</page>
+<referer>http://streamin.to/1gppzg55yze8</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-1gppzg55yze8-640x360.html</page>
+<referer>http://streamin.to/1gppzg55yze8</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-1gppzg55yze8-640x360.html</page>
+<referer>http://streamin.to/1gppzg55yze8</referer>
 </regex>
 </item>
