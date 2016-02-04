@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+item>
+<title>Dilwale (2015)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-cqvuewsxdnnf-640x360.html</link>
+<thumbnail>http://www.fun2crazy.me/wp-content/uploads/2015/12/Dilwale-1.jpg</thumbnail>
+<fanart>http://cdn.koimoi.com/wp-content/new-galleries/2015/12/srks-next-marketing-stroke-for-dilwale-out-on-thursday-1.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-cqvuewsxdnnf-640x360.html</page>
+<referer>http://streamin.to/cqvuewsxdnnf</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-cqvuewsxdnnf-640x360.html</page>
+<referer>http://streamin.to/cqvuewsxdnnf</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-cqvuewsxdnnf-640x360.html</page>
+<referer>http://streamin.to/cqvuewsxdnnf</referer>
+</regex>
+</item>
+
 <item>
 <title>Bajrangi Bhaijaan (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-rp2h1e06cs9c-640x360.html</link>
