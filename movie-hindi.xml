@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-item>
+<item>
 <title>Dilwale (2015)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-cqvuewsxdnnf-640x360.html</link>
 <thumbnail>http://www.fun2crazy.me/wp-content/uploads/2015/12/Dilwale-1.jpg</thumbnail>
