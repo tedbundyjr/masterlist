@@ -11,7 +11,7 @@
 <link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
-  <expres>src = '/(.*?)';</expres>
+  <expres>src="/(.*?)"</expres>
   <page>http://www.iptvlinks.tk/ds/embed?id=cn-uk</page>
   <referer>http://www.zoptv.com/live/cartoon-network-uk</referer>
 </regex>
@@ -48,7 +48,7 @@
 <link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
-  <expres>src = '/(.*?)';</expres>
+  <expres>src="/(.*?)"</expres>
   <page>http://www.iptvlinks.tk/ds/embed?id=disney-uk</page>
   <referer>http://www.zoptv.com/live/disney-uk</referer>
 </regex>
