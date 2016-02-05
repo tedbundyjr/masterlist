@@ -167,17 +167,12 @@ item>
 
 <item>
 <title>SKY SPORTS 1</title>
-<link>$doregex[getEncLink]</link>
+<link>$doregex[m3u8]</link>
 <regex>
-<name>getDecLink</name>
-<expres>curl = "(.*?)"</expres>
-<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv21&amp;autoplay=true&amp;strech=exactfit</page>
-<referer>http://www.ibrodtv.net/embed.php?chan=tv21&width=640&height=480</referer>
-</regex>
-<regex>
-<name>getEncLink</name>
-<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
-<page></page>
+<name>m3u8</name>
+<expres>href="(.*?)">.*Sky Sports 1</expres>
+<page>http://m.liveonlinetv247.info/skysports.php</page>
+<referer>http://m.liveonlinetv247.info</referer>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
 </item>
