@@ -2,12 +2,7 @@
 
 <item>
 <title>ABC</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/68969',False,False)</expres>
-	<page></page>
-</regex>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/abc_zpsina7mqq1.png</thumbnail>
 </item>
 
@@ -26,12 +21,7 @@
 
 <item>
 <title>AXN</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/73310',False,False)</expres>
-	<page></page>
-</regex>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
 </item>
 
@@ -66,19 +56,8 @@
 </item>
 
 <item>
-<title>FOX MOVIES PREMIERE</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/38449/',False,False)</expres>
-	<page></page>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
-</item>
-
-<item>
 <title>FILM4</title>
-<link>http://198.179.30.108/live/13.high.stream/playlist.m3u8?id=0ad5aac39bb13fbecba4ce7394cda74209b5e3487abfcebc034face24f7faf838d6a9c16fb9b83735162ee9f081d1a86cfdc0075d1d4a2f8890830bfed53643de6cc008dd61d27bb4b6a09aea16d09278f2f49e2243a181ff1e54ec9d77414055490b703630d9be5b2167e289c70ec12ca5dd359b6cb61cdc395d39a82dd0e78d06792da91d95699316a9d1d801bf88ff9d60b8f2c337ba2</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/film4_zpsmyret4mb.png</thumbnail>
 </item>
 
@@ -90,34 +69,7 @@
 
 <item>
 <title>HBO MOVIES</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/68358',False,False)</expres>
-	<page></page>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hbo_zpsbhssat2t.png</thumbnail>
-</item>
-
-<item>
-<title>HBO COMEDY</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/38214',False,False)</expres>
-	<page></page>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hbo_zpsbhssat2t.png</thumbnail>
-</item>
-
-<item>
-<title>HBO PLUS</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/73305',False,False)</expres>
-	<page></page>
-</regex>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hbo_zpsbhssat2t.png</thumbnail>
 </item>
 
@@ -170,35 +122,20 @@
 </item>
 
 <item>
-<title>SKY ATLANTIC</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/72136',False,False)</expres>
-	<page></page>
-</regex>
+<title>SKY FAMILY</title>
+<link>http://goo.gl/krzLca</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
 <item>
-<title>SKY SCIFI-HORROR</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/71731',False,False)</expres>
-	<page></page>
-</regex>
+<title>SKY PREMIERE</title>
+<link>http://goo.gl/wWH2mC</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
 <item>
 <title>SHOWTIME</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/69036',False,False)</expres>
-	<page></page>
-</regex>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/showtime_zpsebfxxjph.png</thumbnail>
 </item>
 
