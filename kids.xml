@@ -8,13 +8,7 @@
   
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>src="/(.*?)"</expres>
-  <page>http://www.iptvlinks.tk/ds/embed?id=cn-uk</page>
-  <referer>http://www.zoptv.com/live/cartoon-network-uk</referer>
-</regex>
+<link>http://www.iptvlinks.tk/_ds/live.m3u8?id=cn-uk&auth=e4311e8fce0c24f7db765f055aee004d5500402be87fe23d5312f46d22c5ee2863f82e5fbc607d046239f6d776b69d96</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cartoonnetwork_zpsimenizaj.png</thumbnail>
 </item>
 
@@ -45,13 +39,7 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>src="/(.*?)"</expres>
-  <page>http://www.iptvlinks.tk/ds/embed?id=disney-uk</page>
-  <referer>http://www.zoptv.com/live/disney-uk</referer>
-</regex>
+<link>http://www.iptvlinks.tk/_ds/live.m3u8?id=disney-uk&auth=b7855fb5021dcf30e42ee16ed71dbb0911500b107f64d30acf05bb054aaf35706dcde908f60cb7d08a2d4b07737e3668</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneychannel_zpsopmavh0t.png</thumbnail>
 </item>
 
