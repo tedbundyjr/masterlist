@@ -39,17 +39,16 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>http://www.iptvlinks.tk/$doregex[m3u8]</link>
+<link>$doregex[url]</link>
 <regex>
-  <name>m3u8</name>
-  <expres>src="/(.*?)"</expres>
-  <page>http://www.iptvlinks.tk/ds/embed?id=disney-uk</page>
-  <referer>http://www.zoptv.com/live/disney-uk</referer>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/38804',False,False)</expres>
+	<page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneychannel_zpsopmavh0t.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>DISNEY JUNIOR</title>
 <link>http://top-iptv.zapto.org:8000/live/walid/walid/558.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneyjunior_zpsjeop4e9h.png</thumbnail>
@@ -87,7 +86,12 @@
 
 <item>
 <title>NICKELODEON</title>
-<link>http://167.114.102.27/live/hrwJFamELH5KPNJ-sSVo8w/1454190862/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8||user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0</link>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/71112',False,False)</expres>
+	<page></page>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nickelodeon_zpsvlgsndi5.png</thumbnail>
 </item>
 
