@@ -125,6 +125,56 @@
 </regex>
 </item>
 
+item>
+<title>Bhoothnath Returns (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wauwc1iq3izk-640x360.html</link>
+<thumbnail>http://www.moviescut.com/wp-content/uploads/2014/02/Bhoothnath-Returns-Poster.jpg</thumbnail>
+<fanart>http://uum.aayamaza.com/uploads/2014/04/Bhoothnath-Returns-Review.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-wauwc1iq3izk-640x360.html</page>
+<referer>http://streamin.to/wauwc1iq3izk</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-wauwc1iq3izk-640x360.html</page>
+<referer>http://streamin.to/wauwc1iq3izk</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-wauwc1iq3izk-640x360.html</page>
+<referer>http://streamin.to/wauwc1iq3izk</referer>
+</regex>
+</item>
+
+<item>
+<title>Darr at The Mall (2014)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-r6ush4akk8vx-640x360.html</link>
+<thumbnail>http://desihit.net/templates/admin/assets/upload/darr_530a5f79e8a96.jpg</thumbnail>
+<fanart>http://horrormoviefilms.com/wp-content/uploads/2014/02/darr-at-the-mall-news.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-r6ush4akk8vx-640x360.html</page>
+<referer>http://streamin.to/r6ush4akk8vx</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-r6ush4akk8vx-640x360.html</page>
+<referer>http://streamin.to/r6ush4akk8vx</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-r6ush4akk8vx-640x360.html</page>
+<referer>http://streamin.to/r6ush4akk8vx</referer>
+</regex>
+</item>
+
 <item>
 <title>Chennai Express (2013)</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-czlv4zimc0ja-640x360.html</link>
