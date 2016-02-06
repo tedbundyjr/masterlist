@@ -124,3 +124,103 @@
 <referer>http://streamin.to/1gppzg55yze8</referer>
 </regex>
 </item>
+
+<item>
+<title>Chennai Express (2013)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-czlv4zimc0ja-640x360.html</link>
+<thumbnail>http://img.xcitefun.net/users/2012/12/310998,xcitefun-chennai-express-poster-2.jpg</thumbnail>
+<fanart>http://cdn.koimoi.com/wp-content/new-galleries/2013/04/Shah-Rukh-Khan-Deepika-Padukone-in-Chennai-Express-Movie-Poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-czlv4zimc0ja-640x360.html</page>
+<referer>http://streamin.to/czlv4zimc0ja</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-czlv4zimc0ja-640x360.html</page>
+<referer>http://streamin.to/czlv4zimc0ja</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-czlv4zimc0ja-640x360.html</page>
+<referer>http://streamin.to/czlv4zimc0ja</referer>
+</regex>
+</item>
+
+<item>
+<title>3 Idiots (2009)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8j959g6pgfs3-640x360.html</link>
+<thumbnail>http://cdn.fontmeme.com/images/3-Idiots-Poster.jpg</thumbnail>
+<fanart>http://s1.dmcdn.net/JkLPd/1280x720-JQ4.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-8j959g6pgfs3-640x360.html</page>
+<referer>http://streamin.to/8j959g6pgfs3</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-8j959g6pgfs3-640x360.html</page>
+<referer>http://streamin.to/8j959g6pgfs3</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-8j959g6pgfs3-640x360.html</page>
+<referer>http://streamin.to/8j959g6pgfs3</referer>
+</regex>
+</item>
+
+<item>
+<title>Mohabbatein (2000)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-fa84pwygtjwq-640x360.html</link>
+<thumbnail>http://images.desimartini.com/media/main/original/2013-2/ced89fc2-a3cf-4f97-b0e8-1361dcf9a13d.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-PZi5nDsyTcs/U3nLk5EJqMI/AAAAAAAAAk0/r2w-LmDDGuU/s1600/mohabbatein+movie+poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-fa84pwygtjwq-640x360.html</page>
+<referer>http://streamin.to/fa84pwygtjwq</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-fa84pwygtjwq-640x360.html</page>
+<referer>http://streamin.to/fa84pwygtjwq</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-fa84pwygtjwq-640x360.html</page>
+<referer>http://streamin.to/fa84pwygtjwq</referer>
+</regex>
+</item>
+
+<item>
+<title>Dil To Pagal Hai (1997)</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kk15s7qlfnl4-640x360.html</link>
+<thumbnail>http://i.jeded.com/i/the-heart-is-crazy-dil-to-pagal-hai.487.jpg</thumbnail>
+<fanart>http://www.hindilyrics.net/legends/wp-content/uploads/2013/10/Dil-To-Paagal-Hai-Poster.jpg</fanart>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-kk15s7qlfnl4-640x360.html</page>
+<referer>http://streamin.to/kk15s7qlfnl4</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-kk15s7qlfnl4-640x360.html</page>
+<referer>http://streamin.to/kk15s7qlfnl4</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-kk15s7qlfnl4-640x360.html</page>
+<referer>http://streamin.to/kk15s7qlfnl4</referer>
+</regex>
+</item>
