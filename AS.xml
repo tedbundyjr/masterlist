@@ -9,18 +9,6 @@
 #######################################################################################################################################
 
 <item>
-<title>BT Sport 1</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://1cfbc10635f0388a8e92ea8154a6602a2869d84d&amp;name=BT+Sport+1</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/btsport_zps6ivouikh.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport Europe</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://21aadb7f7a3c09ffd1d8f636f3154b7092045380&amp;name=BT+Sport+Europe</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/btsport_zps6ivouikh.png</thumbnail>
-</item>
-
-<item>
 <title>Sky Sports 1</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://b57aeaf809d32442e9585753aa8d2420b6481f8e&amp;name=Sky+Sports+1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
@@ -48,10 +36,4 @@
 <title>Sky Sports F1</title>
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://2288397a21c4933d2359f19f54daa4101e297a48&amp;name=Sky+Sports+F1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
-</item>
-
-<item>
-<title>TSN 1</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225&amp;name=TSN+1</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/tsn_zpsdve6k7lj.png</thumbnail>
 </item>
