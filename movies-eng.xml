@@ -109,8 +109,8 @@
 </item>
 
 <item>
-<title>SKY COMEDY</title>
-<link>http://goo.gl/QtRMTC</link>
+<title>SKY MOVIES CRIME & THRILLER</title>
+<link>http://play.uktvnow.net:1935/live/mcrime.stream/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
@@ -121,14 +121,26 @@
 </item>
 
 <item>
-<title>SKY FAMILY</title>
-<link>http://goo.gl/krzLca</link>
+<title>SKY MOVIES DISNEY</title>
+<link>http://play.uktvnow.net:1935/live/mdrama.stream/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
 <item>
-<title>SKY PREMIERE</title>
-<link>http://goo.gl/wWH2mC</link>
+<title>SKY MOVIES FAMILY</title>
+<link>http://play.uktvnow.net:1935/live/mfamily.stream/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES PREMIERE</title>
+<link>http://play.uktvnow.net:1935/live/mpremiere.stream/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES SELECT</title>
+<link>http://play.uktvnow.net:1935/live/mselect.stream/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
