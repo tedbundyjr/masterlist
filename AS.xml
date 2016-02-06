@@ -2,26 +2,56 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR orange] Must Have Plexus Addon Installed[/COLOR]</title>
+<title>[COLOR orange]Must Have Plexus Addon Installed[/COLOR]</title>
 <link>.</link>
 <thumbnail></thumbnail>
 </item>
 #######################################################################################################################################
 
 <item>
+<title>BT Sport 1</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1cfbc10635f0388a8e92ea8154a6602a2869d84d&amp;name=BT+Sport+1</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/btsport_zps6ivouikh.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sport Europe</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://21aadb7f7a3c09ffd1d8f636f3154b7092045380&amp;name=BT+Sport+Europe</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/btsport_zps6ivouikh.png</thumbnail>
+</item>
+
+<item>
 <title>Sky Sports 1</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://b57aeaf809d32442e9585753aa8d2420b6481f8e&name=Sky+Sports+1</link>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://b57aeaf809d32442e9585753aa8d2420b6481f8e&amp;name=Sky+Sports+1</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://fecd83c98d6b7aeac0b0f0aec09a82c4745a74f2&amp;name=Sky+Sports+1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 3</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://4dbce55abecd154ff71b3477a332bd63611309e5&name=Sky+Sports+3</link>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://4dbce55abecd154ff71b3477a332bd63611309e5&amp;name=Sky+Sports+3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 4</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://11e5b8dcc1ff06c7fa5071ce4718bcc5f867d668&name=Sky+Sports+4</link>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://11e5b8dcc1ff06c7fa5071ce4718bcc5f867d668&amp;name=Sky+Sports+4</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://2288397a21c4933d2359f19f54daa4101e297a48&amp;name=Sky+Sports+F1</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 1</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225&amp;name=TSN+1</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/tsn_zpsdve6k7lj.png</thumbnail>
 </item>
