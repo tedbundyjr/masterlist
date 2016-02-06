@@ -25,26 +25,8 @@
 </item>
 
 <item>
-<title>FOX 1 CANAL</title>
-<link>http://iptvcanales.com/xw/canales/canal.m3u8?canal=415&amp;profile=3|Referer=http://iptvcanales.com/jwplayer/jwplayer.flash.swf</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
-</item>
-
-<item>
-<title>FOX ACTION CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
-</item>
-
-<item>
-<title>FOX CLASSICS CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
-</item>
-
-<item>
-<title>FOX MOVIES CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<title>FOX</title>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fox_zpsudowncby.png</thumbnail>
 </item>
 
@@ -56,7 +38,7 @@
 
 <item>
 <title>FILM ZONE CANAL</title>
-<link>http://iptvcanales.com/xw/canales/canal.m3u8?canal=440&amp;profile=3|Referer=http://iptvcanales.com/jwplayer/jwplayer.flash.swf</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/filmzone_zpsxfzfes4j.png</thumbnail>
 </item>
 
@@ -104,7 +86,7 @@
 
 <item>
 <title>SONY CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sony_zps7c74bily.png</thumbnail>
 </item>
 
@@ -112,6 +94,18 @@
 <title>SYFY</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/syfy_zpsjw4dxznn.png</thumbnail>
+</item>
+
+<item>
+<title>SKY COMEDY</title>
+<link>http://goo.gl/QtRMTC</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
+</item>
+
+<item>
+<title>SKY FAMILY</title>
+<link>http://goo.gl/krzLca</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
 <item>
@@ -128,18 +122,18 @@
 
 <item>
 <title>TNT SERIES CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tnt_zpslpgj9a4e.png</thumbnail>
 </item>
 
 <item>
 <title>UNIVERSAL CHANNEL CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/universaltv_zpsi6xuiygt.png</thumbnail>
 </item>
 
 <item>
 <title>WARNER TV CANAL</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=%2F.ts</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/wbtv_zpscefon90s.png</thumbnail>
 </item>
