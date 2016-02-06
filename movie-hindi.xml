@@ -163,7 +163,7 @@
 </regex>
 <regex>
 <name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
+<expres>mp4\?h=([^"]*)</expres>
 <page>http://streamin.to/embed-8j959g6pgfs3-640x360.html</page>
 <referer>http://streamin.to/8j959g6pgfs3</referer>
 </regex>
@@ -188,7 +188,7 @@
 </regex>
 <regex>
 <name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
+<expres>mp4\?h=([^"]*)</expres>
 <page>http://streamin.to/embed-fa84pwygtjwq-640x360.html</page>
 <referer>http://streamin.to/fa84pwygtjwq</referer>
 </regex>
@@ -213,7 +213,7 @@
 </regex>
 <regex>
 <name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
+<expres>mp4\?h=([^"]*)</expres>
 <page>http://streamin.to/embed-kk15s7qlfnl4-640x360.html</page>
 <referer>http://streamin.to/kk15s7qlfnl4</referer>
 </regex>
