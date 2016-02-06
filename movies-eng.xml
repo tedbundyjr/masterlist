@@ -109,8 +109,20 @@
 </item>
 
 <item>
+<title>SKY MOVIES ACTION & ADVENTURE</title>
+<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzoxMiBQTSZoYXNoX3ZhbHVlPUpHTVNFSFZrS3hHRmQ1a2hCUTBhVEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/maction.stream</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
+</item>
+
+<item>
 <title>SKY MOVIES CRIME & THRILLER</title>
-<link>http://play.uktvnow.net:1935/live/mcrime.stream/playlist.m3u8</link>
+<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMTozNiBQTSZoYXNoX3ZhbHVlPW0vbEJNNEdlbnBJMit4UmlaU2dsaXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcrime.stream</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES COMEDY</title>
+<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMjozMiBQTSZoYXNoX3ZhbHVlPVJYZmpxaEtHSWZSczN0MUc2dG1NaEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcomedy.stream</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
@@ -121,20 +133,26 @@
 </item>
 
 <item>
-<title>SKY MOVIES DRAMA</title>
-<link>http://play.uktvnow.net:1935/live/mdrama.stream/playlist.m3u8</link>
+<title>SKY MOVIES DRAMA & ROMANCE</title>
+<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMDo0MyBQTSZoYXNoX3ZhbHVlPUcrVkpLVDdiZDNqaHVBRTk2eXpTSlE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdrama.stream</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES FAMILY</title>
-<link>http://play.uktvnow.net:1935/live/mfamily.stream/playlist.m3u8</link>
+<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1ODo1NyBQTSZoYXNoX3ZhbHVlPTJvOWN0VmN0YW1DYmppMVl5U2dkM0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/mfamily.stream</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES PREMIERE</title>
-<link>http://play.uktvnow.net:1935/live/mpremiere.stream/playlist.m3u8</link>
+<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Nzo0NSBQTSZoYXNoX3ZhbHVlPVN0VjVlTmRncWJJdm1vZUpBSy9lYkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mpremiere.stream</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES SCI-FI & HORROR</title>
+<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Njo0OSBQTSZoYXNoX3ZhbHVlPUZRSjViQ2ZOcDg0cWtaMGZKNlVFS3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/mscifi.stream</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
