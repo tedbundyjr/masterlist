@@ -13,8 +13,20 @@
 </item>
 
 <item>
-<title>AXN</title>
-<link></link>
+<title>AXN BLACK</title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
+</item>
+
+<item>
+<title>AXN WHITE</title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
+</item>
+
+<item>
+<title>AXN SPIN</title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png</thumbnail>
 </item>
 
@@ -99,6 +111,12 @@
 <item>
 <title>SKY COMEDY</title>
 <link>http://goo.gl/QtRMTC</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES DISNEY</title>
+<link>http://play.uktvnow.net:1935/live/mdisney.stream/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
