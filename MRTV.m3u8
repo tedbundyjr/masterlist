@@ -60,6 +60,15 @@ http://penang.layarku.tv/edge/149_330_live/chunklist_w968005433.m3u8
 #EXTINF:-0, [COLOR deepskyblue][B](::: ENGLISH CHANNELS :::)[/B][/COLOR]
 http://ignoreme
 
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png" group-title="ENGLISH", AXN BLACK
+http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png" group-title="ENGLISH", AXN WHITE
+http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/axn_zpsisdm2sqs.png" group-title="ENGLISH", AXN SPIN
+http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaione_zpssrf0caqz.png" group-title="ENGLISH", DUBAI ONE
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 
@@ -74,6 +83,33 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/syfy_zpsjw4dxznn.png" group-title="ENGLISH", SYFY
 http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES ACTION & ADVENTURE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzoxMiBQTSZoYXNoX3ZhbHVlPUpHTVNFSFZrS3hHRmQ1a2hCUTBhVEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/maction.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES CRIME & THRILLER
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMTozNiBQTSZoYXNoX3ZhbHVlPW0vbEJNNEdlbnBJMit4UmlaU2dsaXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcrime.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES COMEDY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMjozMiBQTSZoYXNoX3ZhbHVlPVJYZmpxaEtHSWZSczN0MUc2dG1NaEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcomedy.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES DISNEY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzo1NiBQTSZoYXNoX3ZhbHVlPWlIV3hrZkpHejQxR1Y1N0VIYWdEYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdisney.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES DRAMA & ROMANCE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMDo0MyBQTSZoYXNoX3ZhbHVlPUcrVkpLVDdiZDNqaHVBRTk2eXpTSlE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdrama.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES FAMILY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1ODo1NyBQTSZoYXNoX3ZhbHVlPTJvOWN0VmN0YW1DYmppMVl5U2dkM0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/mfamily.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES PREMIERE
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Nzo0NSBQTSZoYXNoX3ZhbHVlPVN0VjVlTmRncWJJdm1vZUpBSy9lYkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mpremiere.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES SCI-FI & HORROR
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Njo0OSBQTSZoYXNoX3ZhbHVlPUZRSjViQ2ZOcDg0cWtaMGZKNlVFS3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/mscifi.stream
+
+#EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png" group-title="ENGLISH", SKY MOVIES SELECT
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzo1NiBQTSZoYXNoX3ZhbHVlPWlIV3hrZkpHejQxR1Y1N0VIYWdEYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mselect.stream
 
 #EXTINF:-0, [COLOR deepskyblue][B](::: NON-ENGLISH CHANNELS :::)[/B][/COLOR]
 http://ignoreme
