@@ -128,7 +128,7 @@
 
 <item>
 <title>SKY MOVIES DISNEY</title>
-<link>http://play.uktvnow.net:1935/live/mdisney.stream/playlist.m3u8</link>
+<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzo1NiBQTSZoYXNoX3ZhbHVlPWlIV3hrZkpHejQxR1Y1N0VIYWdEYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdisney.stream</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
@@ -158,7 +158,7 @@
 
 <item>
 <title>SKY MOVIES SELECT</title>
-<link>http://play.uktvnow.net:1935/live/mselect.stream/playlist.m3u8</link>
+<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzo1NiBQTSZoYXNoX3ZhbHVlPWlIV3hrZkpHejQxR1Y1N0VIYWdEYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mselect.stream</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/skymovies_zps0ztmflan.png</thumbnail>
 </item>
 
