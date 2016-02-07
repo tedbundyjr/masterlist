@@ -38,13 +38,13 @@
 
 <item>
 <title>CBS NEWS</title>
-<link></link>
+<link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cbs_zpspxjvu2fw.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV NEWS</title>
-<link>http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8</link>
+<link>http://ktv030.ds.kylintv.net:80/nlds/kylin/cctv9/as/live/cctv9.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/cctvnews_zpsh8tueiho.png</thumbnail>
 </item>
 
@@ -56,13 +56,13 @@
 
 <item>
 <title>CNBC</title>
-<link>http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/cnbc_zpsb2hwcbdj.png</thumbnail>
 </item>
 
 <item>
 <title>CHCH</title>
-<link>http://54.85.197.21:1935/live/news/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/chch_zpsj1nfnhpi.png</thumbnail>
 </item>
 
@@ -116,7 +116,7 @@
 
 <item>
 <title>i24NEWS</title>
-<link>http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/i24news_zps8ktsn1gv.png</thumbnail>
 </item>
 
@@ -152,7 +152,7 @@
 
 <item>
 <title>PRESS TV</title>
-<link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ptv-live-25f-16x9-SDh</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/presstv_zpsnnmwytxy.png</thumbnail>
 </item>
 
