@@ -54,7 +54,7 @@ item>
 
 <item>
 <title>CTH STADIUM 2 (THAI)</title>
-<link>http://livesg.khaozap.com:1935/live/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://livesg.khaozap.com:1935/live/cth2.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -66,7 +66,7 @@ item>
 
 <item>
 <title>CTH STADIUM 3 (THAI)</title>
-<link>http://livesg.khaozap.com:1935/live/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://livesg.khaozap.com:1935/live/cth3.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -78,7 +78,7 @@ item>
 
 <item>
 <title>CTH STADIUM 4 (THAI)</title>
-<link>http://livesg.khaozap.com:1935/live/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://livesg.khaozap.com:1935/live/cth4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -90,7 +90,7 @@ item>
 
 <item>
 <title>CTH STADIUM 5 (THAI)</title>
-<link>http://livesg.khaozap.com:1935/live/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<link>http://livesg.khaozap.com:1935/live/cth5.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
@@ -221,12 +221,17 @@ item>
 
 <item>
 <title>SKY SPORTS 1</title>
-<link>$doregex[m3u8]</link>
+<link>$doregex[getEncLink]</link>
 <regex>
-<name>m3u8</name>
-<expres>href="(.*?)">.*Sky Sports 1</expres>
-<page>http://m.liveonlinetv247.info/skysports.php</page>
-<referer>http://m.liveonlinetv247.info</referer>
+<name>getDecLink</name>
+<expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?width=640&amp;height=480&amp;id=ibrodtv21&amp;autoplay=true&amp;strech=exactfit</page>
+<referer>http://www.ibrodtv.net/embed.php?chan=tv21&width=640&height=480</referer>
+</regex>
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64decode("$doregex[getDecLink]")</expres>
+<page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/skysports_zpsi1xgekaj.png</thumbnail>
 </item>
