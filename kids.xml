@@ -92,6 +92,18 @@
 </item>
 
 <item>
+<title>OKTO</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Okto.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_okto_zpsmpvovqan.png</thumbnail>
+</item>
+
+<item>
 <title>DIDI & FRIENDS</title>
 <link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/didi_zpsjyw7n3ky.png</thumbnail>
