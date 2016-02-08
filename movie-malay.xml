@@ -2,26 +2,26 @@
 
 <item>
 <title>Langit Cinta (2016)</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gjravyqtg6wl-728x410.html</link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-telyby5z0yny-728x410.html</link>
 <thumbnail>http://pencurimovie.se/wp-content/uploads/2016/02/7langitcinta00_450.jpg</thumbnail>
 <fanart>http://media.fishtank.my/media/era/assets/contest-photos/langit650.jpg</fanart>
 <regex>
 <name>url</name>
 <expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-gjravyqtg6wl-728x410.html</page>
-<referer>http://streamin.to/gjravyqtg6wl</referer>
+<page>http://streamin.to/embed-telyby5z0yny-728x410.html</page>
+<referer>http://streamin.to/telyby5z0yny</referer>
 </regex>
 <regex>
 <name>h-key</name>
 <expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-gjravyqtg6wl-728x410.html</page>
-<referer>http://streamin.to/gjravyqtg6wl</referer>
+<page>http://streamin.to/embed-telyby5z0yny-728x410.html</page>
+<referer>http://streamin.to/telyby5z0yny</referer>
 </regex>
 <regex>
 <name>p-key</name>
 <expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-gjravyqtg6wl-728x410.html</page>
-<referer>http://streamin.to/gjravyqtg6wl</referer>
+<page>http://streamin.to/embed-telyby5z0yny-728x410.html</page>
+<referer>http://streamin.to/telyby5z0yny</referer>
 </regex>
 </item>
 
