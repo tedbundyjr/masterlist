@@ -8,7 +8,7 @@
   
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://play.uktvnow.net:1935/live/cn.stream/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cartoonnetwork_zpsimenizaj.png</thumbnail>
 </item>
 
@@ -51,13 +51,13 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMTowMyBQTSZoYXNoX3ZhbHVlPTIwazVZL1ZnL2dKKzNwL2lnRC8zZFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/disney.stream</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneychannel_zpsopmavh0t.png</thumbnail>
 </item>
 
 <item>
 <title>DISNEY JUNIOR</title>
-<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMTo0NSBQTSZoYXNoX3ZhbHVlPXkrR2dic0hRRTZEb2poSTNFdjJJZGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/disneyjrr.stream</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/disneyjunior_zpsjeop4e9h.png</thumbnail>
 </item>
 
@@ -105,13 +105,7 @@
 
 <item>
 <title>NICK</title>
-<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0NTowMCBQTSZoYXNoX3ZhbHVlPW9sSVZqU0xlNTBtcWw4bUUvTG5HMHc9PSZ2YWxpZG1pbnV0ZXM9MjA=/nick.stream</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nickelodeon_zpsvlgsndi5.png</thumbnail>
-</item>
-
-<item>
-<title>NICK TOONS</title>
-<link>rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0NToyOSBQTSZoYXNoX3ZhbHVlPTBFdzhxWTZtTEwxSUJDWDRyaXJFRUE9PSZ2YWxpZG1pbnV0ZXM9MjA=/nicktoons.stream</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nickelodeon_zpsvlgsndi5.png</thumbnail>
 </item>
 
