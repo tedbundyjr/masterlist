@@ -2,13 +2,13 @@
 
 <item>
 <title>13 SIAM THAI TV</title>
-<link>http://stream.13livetv.com:1935/rtplive/13livetv/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_13siamthai_zpskemh8jzm.png</thumbnail>
 </item>
 
 <item>
 <title>@TV</title>
-<link>http://27.254.44.112:1935/sanooklive1/sanooklive1/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv_zpsjwnsx9b8.png</thumbnail>
 </item>
 
@@ -44,7 +44,7 @@
 
 <item>
 <title>BANG CHANNEL</title>
-<link>http://210.1.60.208:1935/live/bang.sdp/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_bangchannel_zpspvxslo8p.png</thumbnail>
 </item>
 
@@ -56,7 +56,7 @@
 
 <item>
 <title>BRIGHT TV</title>
-<link>http://iam.brighttv.co.th/BrightTV/smil:live.smil/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_brighttv_zpshweyt1vv.png</thumbnail>
 </item> 
 
@@ -86,7 +86,7 @@
 
 <item>
 <title>CHALERM KRUNG</title>
-<link>http://symphony.live-s.cdn.bitgravity.com/cdn-live/_definst_/symphony/live/feed04/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_chalermkrung_zpsgszzuqso.png</thumbnail>
 </item>
 
@@ -104,7 +104,7 @@
 
 <item>
 <title>DRAGON TV</title>
-<link>http://103.40.138.89:1935/live/dragon/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_dragontv_zpsopewrxan.png</thumbnail>
 </item>
 
@@ -151,26 +151,26 @@
 </item> 
 
 <item>
-<title>MCOT HD</title>
-<link>http://mediaxi.mcot.net:1935/live/tcr1_ch1_all.smil/playlist.m3u8</link>
+<title>MCOT</title>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcothd_zpsbizgaxok.png</thumbnail>
 </item>
 
 <item>
 <title>MCOT KIDS & FAMILY</title>
-<link>http://mediaxi.mcot.net:1935/live/tcr1_ch4_all.smil/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcotfamily_zps3bwyr6fa.png</thumbnail>
 </item>
 
 <item>
 <title>MCOT 1</title>
-<link>rtmp://mediaxi.mcot.net/live/ playpath=tcr1_ch3_800 swfUrl=http://www.mcot.net/ui-object/flowplayer/flowplayer-3.2.9.swf pageUrl=http://www.mcot.net/mcot1</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcot1_zpsvz7adnzb.png</thumbnail>
 </item>
 
 <item>
 <title>MCOT WORLD</title>
-<link>rtmp://mediaxi.mcot.net/live/tcr1_ch2_800 swfVfy=1 live=1</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcotworld_zps1ksvh9gw.png</thumbnail>
 </item>
 
@@ -218,7 +218,7 @@
 
 <item>
 <title>MONGKOL CHANNEL</title>
-<link>rtmp://202.43.34.236/MOK/s1</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mongkolchannel_zpsr8xbkyzp.png</thumbnail>
 </item> 
 
@@ -230,7 +230,7 @@
 
 <item>
 <title>NBT WORLD</title>
-<link>http://112.121.129.124:1935/live/ch1_HD.sdp/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_nbtworld.jpg_zpscfms3qdo.png</thumbnail>
 </item> 
 
@@ -278,7 +278,7 @@
 
 <item>
 <title>SEXY WOMEN TV</title>
-<link>http://103.40.138.89:1935/live/sexy/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_sexytv_zpsdy9wqy82.png</thumbnail>
 </item>
 
@@ -302,7 +302,7 @@
 
 <item>
 <title>THAI MUSLIM TV</title>
-<link>http://radio2.thaidhost.com:8888/muslimonair2/live/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_thaimuslimtv_zpsxjcgn028.png</thumbnail>
 </item>
 
@@ -326,7 +326,7 @@
 
 <item>
 <title>TNN 24</title>
-<link>http://ironman.mine.nu:19350/live/tnn.stream/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tnn24_zpszwyyxrvm.png</thumbnail>
 </item> 
 
@@ -350,7 +350,7 @@
 
 <item>
 <title>TV MUSLIM</title>
-<link>http://202.57.162.52:1935/TV_muslim1/TV_muslim1/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tvmuslim_zpsbhst0hxm.png</thumbnail>
 </item>
 
@@ -374,7 +374,7 @@
 
 <item>
 <title>WHITE CHANNEL</title>
-<link>http://27.254.44.112/whitechannellive2/whitechannellive2/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_whitechannel_zpslja96r6j.png</thumbnail>
 </item>
 
