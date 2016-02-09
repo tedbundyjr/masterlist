@@ -14,7 +14,7 @@
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>TV3</title>
 <link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master002.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
@@ -28,21 +28,21 @@ item>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>NTV7</title>
 <link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>8TV</title>
 <link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
 <fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/savemalaysia_zps2xluoceb.jpg</fanart>
 </item>
 
-item>
+<item>
 <title>TV9</title>
 <link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
